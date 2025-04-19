@@ -1,7 +1,7 @@
 # 🐉 Skyrim Modding Essentials 2025 - Guia Definitivo PT-BR
 
 **Nota:** Este guia foi atualizado para **2025** e utiliza apenas informações verificáveis de fontes oficiais e consenso da comunidade.  
-*Última atualização: 20 de Outubro de 2025*  
+*Última atualização: 19 de Abril de 2025*  
 
 ---
 
